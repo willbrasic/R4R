@@ -19,3 +19,6 @@ During the in-person Tuesday session, you will be paired with another fellow to 
 For our first session, please discuss with your partner your thoughts on FOSS Intro to Open Science. Please use the Rose, Bud, Thorn prompts to spark discussion. 
 
 Please give a brief summary of what you talked about. Did you learn anything from your partner regarding their research or a FOSS topic? Did you help your partner learn something they did not know? 
+
+
+This is a test of Cassidy adding to this document.
