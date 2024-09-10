@@ -13,3 +13,6 @@ After each FOSS session, students will write their thoughts on the session (usin
 3. Upon finishing the journal writing, you will click on the `contribute` button. This will start a `pull request` to merge the changes in your forked repo back to the original repo (jeffgillan/R4R). Make sure the changes you want to merge are on your named branch.
   
 4. I will review the proposed changes of the pull request and then accept them. 
+
+
+test
