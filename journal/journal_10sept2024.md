@@ -6,8 +6,12 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
 
+I enjoyed learning about the FOSS pillars and hearing other students' perspectives on what they think is the most important and applicable to their research. 
+
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your current or future research projects.
+
+I'm looking forward to learning more "hard" coding skills. I think once we start learning more about how to use the variety of different applications, I will be able to start thinking more about how I can leverage them to help with the research that the Colege of Law faculty is currently conducting. 
 
 ### Thorn: 
 Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. Are there barriers that need to be overcome?
