@@ -1,0 +1,1 @@
+Last FOSS session we covered Docker. It definitely feels important, but I'm not quite seeing when I would use it. If I have some code scripts, why not just upload those scripts to GitHub, let someone pull them to their own device, and run them that way? Maybe Docker is important for more intense projects. Hopefully this will become more clear today and in the next FOSS session. 
